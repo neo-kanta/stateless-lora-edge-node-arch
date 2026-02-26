@@ -1,0 +1,231 @@
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.bin
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.eep
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.elf
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.hex
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.lss
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.map
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/ATSAMR34_LORA_P2P_SIMPLE_APP.srec
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.bin
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.eep
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.elf
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.hex
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.lss
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.map
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/LORA_P2P_TRANSMIT.srec
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/makedep.mk
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/Makefile
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/main.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/main.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/common2/services/delay/sam0/systick_counter.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/common2/services/delay/sam0/systick_counter.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/boards/samr34_xplained_pro/board_init.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/boards/samr34_xplained_pro/board_init.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/aes/aes.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/aes/aes.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/aes/aes_callback.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/aes/aes_callback.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/extint/extint_callback.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/extint/extint_callback.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/extint/extint_sam_l_c/extint.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/extint/extint_sam_l_c/extint.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/nvm/nvm.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/nvm/nvm.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/port/port.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/port/port.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/rtc/rtc_sam_l_c/rtc_count.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/rtc/rtc_sam_l_c/rtc_count.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/rtc/rtc_sam_l_c/rtc_count_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/rtc/rtc_sam_l_c/rtc_count_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/sercom.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/sercom.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/spi/spi.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/spi/spi.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/spi/spi_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/spi/spi_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/usart/usart.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/usart/usart.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/usart/usart_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/usart/usart_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/system.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/system.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/clock.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/clock.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/gclk.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/gclk.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/interrupt/system_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/pinmux/pinmux.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/system/pinmux/pinmux.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/tc/tc_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/tc/tc_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/tc/tc_sam_l_c/tc.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/tc/tc_sam_l_c/tc.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/cmsis/samr34/source/gcc/startup_samr34.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/cmsis/samr34/source/gcc/startup_samr34.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/stdio/read.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/stdio/read.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/stdio/write.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/stdio/write.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/syscalls/gcc/syscalls.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/radio_driver_hal.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/radio_driver_hal.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sys.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sys.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sleep/sam0/sleep.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sleep/sam0/sleep.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sleep_timer/sam0/sleep_timer.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/hal/src/sleep_timer/sam0/sleep_timer.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/pmm/src/pmm.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/pmm/src/pmm.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_as.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_as.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_au.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_au.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_eu.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_eu.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_in.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_in.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_jp.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_jp.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_kr.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_kr.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_na.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_mband_na.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_multiband.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/regparams/multiband/src/lorawan_multiband.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/aes/src/hw/sam0/aes_engine.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/aes/src/hw/sam0/aes_engine.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_interface.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_interface.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_nvm.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_nvm.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_task_handler.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_task_handler.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_wl.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/pds/src/pds_wl.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/sw_timer/src/sw_timer.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/sw_timer/src/sw_timer.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_assert.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_assert.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_init.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_init.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_low_power.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_low_power.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_task_manager.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sys/src/system_task_manager.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/sx1276/src/radio_driver_SX1276.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/sx1276/src/radio_driver_SX1276.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/services/common_hw_timer/sam0/hw_timer.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/services/common_hw_timer/sam0/hw_timer.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/services/nvm/sam0/sam_nvm.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/services/nvm/sam0/sam_nvm.o
+UART/UART/Debug/makedep.mk
+UART/UART/Debug/Makefile
+UART/UART/Debug/UART.bin
+UART/UART/Debug/UART.eep
+UART/UART/Debug/UART.elf
+UART/UART/Debug/UART.hex
+UART/UART/Debug/UART.lss
+UART/UART/Debug/UART.map
+UART/UART/Debug/UART.srec
+UART/UART/Debug/Device_Startup/startup_samr34.d
+UART/UART/Debug/Device_Startup/startup_samr34.o
+UART/UART/Debug/src/main.d
+UART/UART/Debug/src/main.o
+UART/UART/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.d
+UART/UART/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+UART/UART/Debug/src/ASF/common2/boards/user_board/init.d
+UART/UART/Debug/src/ASF/common2/boards/user_board/init.o
+UART/UART/Debug/src/ASF/common2/services/delay/sam0/systick_counter.d
+UART/UART/Debug/src/ASF/common2/services/delay/sam0/systick_counter.o
+UART/UART/Debug/src/ASF/sam0/drivers/adc/adc_sam_l_c/adc.d
+UART/UART/Debug/src/ASF/sam0/drivers/adc/adc_sam_l_c/adc.o
+UART/UART/Debug/src/ASF/sam0/drivers/adc/adc_sam_l_c/adc_callback.d
+UART/UART/Debug/src/ASF/sam0/drivers/adc/adc_sam_l_c/adc_callback.o
+UART/UART/Debug/src/ASF/sam0/drivers/port/port.d
+UART/UART/Debug/src/ASF/sam0/drivers/port/port.o
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/sercom.d
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/sercom.o
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.d
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.o
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/usart/usart.d
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/usart/usart.o
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/usart/usart_interrupt.d
+UART/UART/Debug/src/ASF/sam0/drivers/sercom/usart/usart_interrupt.o
+UART/UART/Debug/src/ASF/sam0/drivers/system/system.d
+UART/UART/Debug/src/ASF/sam0/drivers/system/system.o
+UART/UART/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/clock.d
+UART/UART/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/clock.o
+UART/UART/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/gclk.d
+UART/UART/Debug/src/ASF/sam0/drivers/system/clock/clock_samr34/gclk.o
+UART/UART/Debug/src/ASF/sam0/drivers/system/interrupt/system_interrupt.d
+UART/UART/Debug/src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
+UART/UART/Debug/src/ASF/sam0/drivers/system/pinmux/pinmux.d
+UART/UART/Debug/src/ASF/sam0/drivers/system/pinmux/pinmux.o
+UART/UART/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.d
+UART/UART/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.o
+UART/UART/Debug/src/ASF/sam0/utils/syscalls/gcc/syscalls.d
+UART/UART/Debug/src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+UART/UART/Debug/src/lora_log.d
+UART/UART/Debug/src/lora_log.o
+*.atsuo
+LoRa P2P Transmit(Bypass LoRa WAN)/LORA_P2P_TRANSMIT.atsln
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master_interrupt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master_interrupt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/drivers/i2c_com.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/drivers/i2c_com.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/services/eeprom/at24mac402.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/services/eeprom/at24mac402.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/makedep.mk
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/Makefile
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/Device_Startup/startup_samr34.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/Device_Startup/startup_samr34.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/Device_Startup/system_samr34.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/Device_Startup/system_samr34.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/common2/boards/user_board/init.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/common2/boards/user_board/init.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/port/port.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/port/port.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/sercom.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/sercom.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/sercom_interrupt.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master_interrupt.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/i2c/i2c_sam0/i2c_master_interrupt.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/spi/spi.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/spi/spi.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/usart/usart.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/drivers/sercom/usart/usart.o
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.d
+Emer_Mcu_LoRa/Emer_Mcu_LoRa/Debug/src/ASF/sam0/utils/cmsis/samr34/source/system_samr34.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/wdt/wdt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/wdt/wdt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/wdt/wdt_callback.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/sam0/drivers/wdt/wdt_callback.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sal/src/sal.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/sal/src/sal.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/edbg_eui/edbg_eui.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/services/edbg_eui/edbg_eui.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_get_set.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_get_set.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_interface.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_lbt.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_lbt.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_task_manager.o
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_transaction.d
+LoRa P2P Transmit(Bypass LoRa WAN)/Debug/src/ASF/thirdparty/wireless/lorawan/tal/src/radio_transaction.o
